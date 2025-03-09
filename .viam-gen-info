@@ -1,0 +1,12 @@
+{
+  "module_name": "wifi",
+  "namespace": "brad-grigsby",
+  "language": "python",
+  "resource_type": "component",
+  "resource_subtype": "sensor",
+  "model_name": "monitor",
+  "enable_cloud_build": false,
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2025-03-09T18:16:44.00562Z"
+}

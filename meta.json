@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dl.viam.dev/module.schema.json",
+  "module_id": "brad-grigsby:wifi",
+  "visibility": "public",
+  "url": "",
+  "description": "Modular sensor component: monitor",
+  "models": [
+    {
+      "api": "rdk:component:sensor",
+      "model": "brad-grigsby:wifi:ping-monitor",
+      "short_description": "Monitors ping time between local host and the internet",
+      "markdown_link": "README.md#model-brad-grigsbywifimonitor"
+    },
+    {
+      "api": "rdk:component:sensor",
+      "model": "brad-grigsby:wifi:speedtest",
+      "short_description": "Monitors internet speed",
+      "markdown_link": "README.md#model-brad-grigsbywifimonitor"
+    }
+  ],
+  "entrypoint": "./run.sh",
+  "first_run": ""
+}
