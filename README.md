@@ -12,7 +12,7 @@ The following attribute template can be used to configure this model:
 
 ```json
 {
-"attribute_1": <string>
+"router_address": <string>
 }
 ```
 
