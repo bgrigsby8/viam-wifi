@@ -9,13 +9,13 @@
       "api": "rdk:component:sensor",
       "model": "brad-grigsby:wifi:ping-monitor",
       "short_description": "Monitors ping time between local host and the internet",
-      "markdown_link": "README.md#model-brad-grigsbywifimonitor"
+      "markdown_link": "README.md#model-brad-grigsbywifipingmonitor"
     },
     {
       "api": "rdk:component:sensor",
       "model": "brad-grigsby:wifi:speedtest",
       "short_description": "Monitors internet speed",
-      "markdown_link": "README.md#model-brad-grigsbywifimonitor"
+      "markdown_link": "README.md#model-brad-grigsbywifispeedtest"
     }
   ],
   "entrypoint": "./run.sh",
